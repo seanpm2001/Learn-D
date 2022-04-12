@@ -1,0 +1,6 @@
+# Ignore this when building D
+/source/!OldVersions/App/V1_app.d
+/source/!OldVersions/App/V1_APPLICATION.d
+/source/!OldVersions/
+/source/!OldVersions/*.d
+# File version: 1 (2022, Monday, April 11th at 8:32 pm PST)
